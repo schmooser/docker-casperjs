@@ -1,12 +1,11 @@
 # CasperJS
 
   * `latest` built from the [latest CasperJS snapshot](https://github.com/n1k0/casperjs/commits/master) [![](https://badge.imagelayers.io/schmooser/casperjs:latest.svg)](https://imagelayers.io/?images=schmooser/casperjs:latest 'Get your own badge on imagelayers.io')
+  * Running on top of [PhantomJS][phantomjs] 2.0
 
 [Docker][docker] container of [CasperJS][casperjs].
 
 ## Usage
-
-### JavaScript interactive shell
 
 Start CasperJS:
 

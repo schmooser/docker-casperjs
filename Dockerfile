@@ -1,4 +1,4 @@
-FROM wernight/phantomjs
+FROM wernight/phantomjs:2.1.1
 MAINTAINER Pavel Popov <schmooser@gmail.com>
 
 USER root
